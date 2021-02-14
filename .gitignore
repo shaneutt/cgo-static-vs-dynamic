@@ -1,0 +1,4 @@
+test.o
+libtest.a
+libtest.so
+main
